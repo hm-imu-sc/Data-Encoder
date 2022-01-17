@@ -1,0 +1,20 @@
+
+ First time use instruction . . .
+
+1. As you're using this program for the first time there is no user registered for sign in.
+2. So you need to Sign up.
+3. In sign up process you can't use spaces in your username and your username must be unique.
+4. It is strongly recommended to choose an strong password.
+
+
+ Instructions for choosing a strong password . . .
+
+1. Try to use all the following character combinations in your password.
+2. Uppercase letters.
+3. Lowercase letters.
+4. Numbers.
+5. Special characters.
+6. Finally put at least 6 characters in your password
+
+
+		. . . Welcome to data encrypter by HM Imu SC

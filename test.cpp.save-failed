@@ -1,0 +1,31 @@
+#include<bits/stdc++.h>
+#include<conio.h>
+
+using namespace std;
+
+#define til(x) while(x--)
+#define for_all(i,LEN) for(int i=0;i<LEN;i++)
+#define CASE(i,str) cout<<"Case "<<i<<": "<<str<<endl;i++
+#define read_auto() freopen("in.txt","r",stdin)
+#define write_auto() freopen("out.txt","w",stdout)
+#define read_write_auto() read_auto();write_auto()
+#define to_order() ofstream order("test_cases.txt")
+#define space << " " <<
+#define get_random(a,b) rand()%(b-a+1)+a
+#define lint long long int
+#define pause system("pause")
+#define clear system("cls")
+#define INF(x) INT_MAX-x
+#define pr(t1,t2) pair<t1,t2>
+#define MKP(x,y) make_pair(x,y)
+
+int main(){
+
+    string cmd="G:Games/\"Assassin's Creed Unity\"/ACU.exe";
+
+    cout<<cmd<<endl;
+
+    system(cmd);
+
+    return 0;
+}
